@@ -1,0 +1,25 @@
+
+body{
+    background-color:rgb(240, 180, 89);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #004d99;
+    font-family: Papyrus, fantasy;
+}
+
+h1{
+    font-size: 75px;
+    text-align: center;
+    color: olivedrab;
+    padding: 5px;
+}
+
+canvas
+{
+    border: 5px solid brown;
+}
+
+button{
+    height: 75;
+    background-color: blue;
+    color:aliceblue;
+}
